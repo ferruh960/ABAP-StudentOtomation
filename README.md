@@ -1,5 +1,5 @@
 # ABAP-StudentOtomation
-StudentOtomation program written by using ABAP SAP
+StudentOtomation program developed with ABAP SAP
 
 <br/>
 <img src="https://github.com/kargarf/ABAP-StudentOtomation/blob/master/a.jpg"/>
